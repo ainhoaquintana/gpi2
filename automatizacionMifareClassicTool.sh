@@ -7,5 +7,5 @@ cd ../../../aplicacion/gpi2/MifareClassicTool-master/classicTool/
 
 ./gradlew assembleDebug
 
-cp /app/build/outputs/apk/debug/apk-debug.apk ../../  
+sudo cp /app/build/outputs/apk/debug/apk-debug.apk ../../  
 
