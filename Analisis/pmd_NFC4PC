@@ -1,0 +1,50 @@
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:3:	UnnecessaryImport:	Unused import 'apdu4j.core.*'
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:15:	UseUtilityClass:	This utility class has a non-private constructor
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:23:	LocalVariableNamingConventions:	The local variable name 'uid_bytes' doesn't match '[a-z][a-zA-Z0-9]*'
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:24:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:31:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:33:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:44:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:48:	UnusedLocalVariable:	Avoid unused local variables such as 'toRead'.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:52:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:53:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:56:	LocalVariableNamingConventions:	The local variable name 'uid_bytes' doesn't match '[a-z][a-zA-Z0-9]*'
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:58:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:65:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:71:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:74:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:77:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:101:	MethodNamingConventions:	The static method name 'type2_to_message' doesn't match '[a-z][a-zA-Z0-9]*'
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:106:	MethodNamingConventions:	The static method name 'type4_to_message' doesn't match '[a-z][a-zA-Z0-9]*'
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:113:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:123:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:128:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:166:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/CardCommands.java:177:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/MainWrapper.java:58:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/MainWrapper.java:60:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/MainWrapper.java:62:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/MainWrapper.java:78:	AvoidCatchingThrowable:	A catch statement should never catch throwable since it includes errors.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/MainWrapper.java:89:	UnnecessaryFullyQualifiedName:	Unnecessary qualifier 'java.awt': 'Toolkit' is already in scope because it is imported in this file
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/MainWrapper.java:90:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/MainWrapper.java:99:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:5:	UnnecessaryImport:	Unused import 'apdu4j.pcsc.*'
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:43:	LooseCoupling:	Avoid using implementation types like 'ConcurrentHashMap'; use the interface instead
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:64:	MissingOverride:	The method 'newThread(Runnable)' is missing an @Override annotation.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:83:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:103:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:136:	UnnecessaryFullyQualifiedName:	Unnecessary qualifier 'NFC4PC': 'headless' is already in scope because it is declared in an enclosing type
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:137:	UnnecessaryFullyQualifiedName:	Unnecessary qualifier 'NFC4PC': 'conf' is already in scope because it is declared in an enclosing type
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:179:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:192:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:200:	LooseCoupling:	Avoid using implementation types like 'LinkedHashMap'; use the interface instead
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:203:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:271:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:280:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:284:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:287:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/NFC4PC.java:295:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/WebHooks.java:16:	UseUtilityClass:	This utility class has a non-private constructor
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/WebHooks.java:29:	ControlStatementBraces:	This statement should have braces
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/WebHooks.java:32:	GuardLogStatement:	Logger calls should be surrounded by log level guards.
+../../../aplicacion/gpi2/NFC4PC-main/src/main/java/pro/javacard/nfc4pc/WebHooks.java:36:	AvoidCatchingThrowable:	A catch statement should never catch throwable since it includes errors.
