@@ -20,7 +20,16 @@ pipeline {
                         '''
                     }
                 }
+		stage("NFC4PC") {
+                    steps {
+                        sh'''
+                        cd /home/alumno/aplicacion/gpi2/
+                        sudo ./automatizacionNFC4PC.sh
+                        '''
+                    }
+                }
             }
         }
     }
 }
+
